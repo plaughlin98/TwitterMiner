@@ -1,2 +1,3 @@
 # TwitterMiner
-Messing Around with Twitter API (tutorial based)
+Messing Around with Twitter API
+
